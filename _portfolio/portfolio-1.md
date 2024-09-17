@@ -8,7 +8,8 @@ collection: portfolio
 
 ## Einleitung
 
-Die Sneak Preview im Cineplex Marburg bietet Filmliebhabern die Möglichkeit, Filme vor ihrer offiziellen Veröffentlichung zu sehen, ohne zu wissen, welcher Film gezeigt wird. Dies führt zu einer einzigartigen Dynamik, da die Reaktionen der Zuschauer oft vom Überraschungseffekt geprägt sind. In diesem Projekt habe ich die Daten der Sneak Preview Veranstaltungen über einen bestimmten Zeitraum analysiert, um herauszufinden, welche Genres bei den Zuschauern am beliebtesten sind, wie die Zuschauerbewertungen im Vergleich zu den IMDb-Ratings abschneiden, und welche Filme besonders geliebt oder gehasst wurden. Außerdem habe ich untersucht, wie sich die Zuschauerzahlen über die Zeit entwickelt haben.
+Jeden Dienstag bietet das Cineplex Marburg Filmfans und Gelegenheitszuschauern in der Sneak Preview die Gelegenheit, einen Film noch vor dessen offizieller Veröffentlichung zu sehen – und das, ohne vorher zu wissen, welcher Film gezeigt wird. Nach jeder Vorstellung haben die Zuschauer dann die Möglichkeit, den Film direkt am sogenannten "Sneakomat" zu bewerten. Die Ergebnisse der Umfrage werden für jede Vorstellung auf Instagram veröffentlicht und dies mittlerweile schon seit mehr als 5 Jahren. So sind über die Jahre die Bewertungen
+zu ingesamt 213 Filmen zusammen gekommen, welche wir uns in den folgenden Abschnitten etwas genauer anschauen wollen.
 
 ## 1. Beliebteste Genres bei Sneak Preview Zuschauern
 
